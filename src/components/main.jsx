@@ -2,13 +2,16 @@ import React from 'react'
 
 const Main = () => {
   return (
-    <div className='container'>
-      <div className='h-screen flex abstract-gradient xl:px-32'>
-        <div className='text-white xl:w-1/2 items-center content-center justify-center'>
-          <h1 className='text-5xl'>I'm Fariz Irfani</h1>
-          <h2 className='text-3xl'>Web Developer | Mobile Developer</h2>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, sint. Lorem ipsum dolor sit amet.</p>
-          <div className='bg-cyan-400 rounded-full px-3 py-4 text-white text-center w-40'>Contact</div>
+    <div className='container h-screen'>
+      <div className='flex md:flex-row flex-col-reverse md:justify-between justify-center items-center content-center py-7'>
+        <div className='text-white'>
+          <h1 className='text-4xl font-bold'>Hi I'm Fariz Irfani</h1>
+          <h1 className='text-3xl font-semibold py-4'>Web & Mobile Developer</h1>
+          <p className='py-4 text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi <br /> recusandae! Veritatis quis adipisci quas?</p>
+          <button className='bg-[#9213cd] text-lg px-4 py-2 rounded-full'>Hire me?</button>
+        </div>
+        <div className='bg-slate-700 md:w-[500px] md:h-[500px] w-auto h-56'>
+          <h1>wei cok</h1>
         </div>
       </div>
     </div>
