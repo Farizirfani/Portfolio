@@ -1,5 +1,7 @@
 import React from 'react'
 
+import MainBanner2 from '../assets/banner-laptop.png'
+
 const Main = () => {
   return (
     <div className='container h-screen'>
@@ -10,8 +12,8 @@ const Main = () => {
           <p className='py-4 text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi <br /> recusandae! Veritatis quis adipisci quas?</p>
           <button className='bg-[#9213cd] text-lg px-4 py-2 rounded-full'>Hire me?</button>
         </div>
-        <div className='bg-slate-700 md:w-[500px] md:h-[500px] w-auto h-56'>
-          <h1>wei cok</h1>
+        <div className=''>
+          <img className='' src={MainBanner2} alt={<a href="https://storyset.com/web">Web illustrations by Storyset</a>} />
         </div>
       </div>
     </div>

@@ -2,6 +2,7 @@ import './App.css';
 import Journey from './components/journey';
 import Main from './components/main';
 import Navbar from './components/navbar';
+import Skills from './components/skills';
 import Wcid from './components/wcid';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
         <Main />
         <Wcid />
         <Journey />
+        <Skills />
       </div>
   );
 }
