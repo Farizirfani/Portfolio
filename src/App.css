@@ -38,3 +38,17 @@
     transform: translate(0, -0px);
   }
 }
+
+.img-wcid {
+  position: absolute;
+  top: -40px;
+  z-index: 2;
+  border: solid 5px #06071a;
+}
+
+/* 
+.decoration{
+  z-index:;
+  position: absolute;
+  right: 50px;
+} */
