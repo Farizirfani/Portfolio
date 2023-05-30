@@ -26,7 +26,7 @@ const Portofolio = () => {
                     </div>
                 </div>
                 <div>
-                    <h1>testing</h1>
+                    <h1>Testing</h1>
                 </div>
             </div>
         </div>
