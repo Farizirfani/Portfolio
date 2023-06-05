@@ -1,7 +1,7 @@
 import './App.css';
 import Journey from './components/journey';
 import Main from './components/main';
-import Navbar from './components/navbar';
+// import Navbar from './components/navbar';
 import Portofolio from './components/portofolio';
 import Skills from './components/skills';
 import Wcid from './components/wcid';
@@ -10,15 +10,16 @@ function App() {
   return (
       <div className="canvas h-auto bg-primary md:px-[100px] px-7">
         <particleBg>
-        <div>
+        {/* <div>
           <Navbar />
-        </div>
+        </div> */}
         <div>
           <Main />
         </div>
         <div>
           <Wcid />
         </div>
+        <hr className='my-6' />
         </particleBg>
         <div>
           <Journey />
@@ -26,6 +27,7 @@ function App() {
         <div>
           <Skills />
         </div>
+        <hr className='my-8' />
         <div>
           <Portofolio />
         </div>

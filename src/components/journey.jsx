@@ -10,46 +10,47 @@ const Journey = () => {
             <VerticalTimeline>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                date="2008 - 2010"
-                contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-                iconStyle={{ background: 'rgb(33, 150, 243)', color: '#000' }}>
-                <div className='bg-slate-600'>
-                    <h1>hello world</h1>
-                </div>
-                <h3 className="vertical-timeline-element-title">Web Designer</h3>
-                <h4 className="vertical-timeline-element-subtitle">Los Angeles, CA</h4>
+                date="2023 - Now"
+                contentStyle={{ background: '#334155', color: '#fff' }}
+                iconStyle={{ background: '#334155', color: '#ffff' }}>
+                <h3 className="vertical-timeline-element-title md:text-xl font-semibold">Learn about web developers & mobile developers</h3>
+                <br />
+                <h4 className="vertical-timeline-element-subtitle">Now learning Mern, Laravel & Flutter</h4>
                 <p>
-                User Experience, Visual Design
+
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
-                date="2006 - 2008"
-                iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}>
-                <h3 className="vertical-timeline-element-title">Web Designer</h3>
-                <h4 className="vertical-timeline-element-subtitle">San Francisco, CA</h4>
+                date="August - november 2022"
+                contentStyle={{ background: '#334155', color: '#fff' }}
+                iconStyle={{ background: '#334155', color: '#ffff' }}>
+                <h3 className="vertical-timeline-element-title md:text-xl font-semibold">Comptia Linux+ & Bootcamp Cloud Computing</h3>
+                <br />
+                <h4 className="vertical-timeline-element-subtitle">Get a certification scholarship opportunity from Adinusa and get cloud computing training</h4>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--education"
+                date=" February - April 2022"
+                contentStyle={{ background: '#334155', color: '#fff' }}
+                iconStyle={{ background: '#334155', color: '#ffff' }}>
+                <h3 className="vertical-timeline-element-title md:text-xl font-bold">Web Developer Intern</h3>
+                <br />
+                <h4 className="vertical-timeline-element-subtitle">PT Cyber Edu Inkor</h4>
                 <p>
-                User Experience, Visual Design
+                    develop website projects using vue.js and nuxt.js framework, help add features in other projects using laravel
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--education"
-                date="2002 - 2006"
-                iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}>
-                <h3 className="vertical-timeline-element-title">Bachelor of Science in Interactive Digital Media Visual Imaging</h3>
-                <h4 className="vertical-timeline-element-subtitle">Bachelor Degree</h4>
+                date="2021 - 2023"
+                contentStyle={{ background: '#334155', color: '#fff' }}
+                iconStyle={{ background: '#334155', color: '#ffff' }}>
+                <h3 className="vertical-timeline-element-title md:text-xl font-bold">Student at SMKN 2 Jakarta</h3>
+                <br />
+                <h4 className="vertical-timeline-element-subtitle">Software engineering major <br /> (Rekayasa Perangkat Lunak)</h4>
                 <p>
-                Creative Direction, Visual Design
-                </p>
-            </VerticalTimelineElement>
-            <VerticalTimelineElement
-                className="vertical-timeline-element--education"
-                date="2002 - 2006"
-                iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}>
-                <h3 className="vertical-timeline-element-title">Bachelor of Science in Interactive Digital Media Visual Imaging</h3>
-                <h4 className="vertical-timeline-element-subtitle">Bachelor Degree</h4>
-                <p>
-                Creative Direction, Visual Design
+                    Web Developer & Mobile Developer
                 </p>
             </VerticalTimelineElement>
             </VerticalTimeline>

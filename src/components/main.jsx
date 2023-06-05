@@ -17,7 +17,7 @@ const Main = () => {
             fontFamily: 'Poppins',
             color: '#fff',
             fontWeight: 600,
-            fontSize: '2em',
+            fontSize: '1.8em',
           }}
           startDelay={2000}
           cursorColor="#fff"
@@ -31,8 +31,8 @@ const Main = () => {
           multiTextLoop={true}
           />
           </div>
-          <p className='py-4 text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi <br /> recusandae! Veritatis quis adipisci quas?</p>
-          <button className='bg-[#9213cd] text-lg px-4 py-2 rounded-full'>Hire me?</button>
+          <p className='py-4 lg:text-xl text-md'>Fresh Graduate at SMKN 2 Jakarta majoring in software engineering<br />let's change the world with small actions</p>
+          <a href="mailto:farizirfani29@gmail.com?subject=Tanya%Jasa&body=Saya%20Tertarik%20dengan%20Anda" className='bg-[#9213cd] text-lg px-4 py-2 rounded-full'>Hire me?</a>
         </div>
         <div className='floating'>
           <img className='' src={MainBanner2} alt={<a href="https://storyset.com/web">Web illustrations by Storyset</a>} />

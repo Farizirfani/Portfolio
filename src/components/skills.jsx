@@ -17,7 +17,7 @@ const Skills = () => {
   return (
     <div className='py-7'>
       <h1 className='text-3xl font-bold text-white text-center'>Skills and Experience</h1>
-      <h2 className='text-xl font-semibold text-white text-center py-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, dolore.</h2>
+      <h2 className='text-xl font-semibold text-white text-center py-3'>some of the stacks I'm still learning and exploring</h2>
       <div className='flex flex-wrap text-center justify-center gap-4 content-center items-center py-7'>
         <div className='' data-aos="fade-up" data-aos-delay="0">
           <Box image={html}/>
