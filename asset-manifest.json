@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.15e1a120.css",
+    "main.js": "/Portfolio/static/js/main.b5a377e8.js",
+    "static/media/De'Louer.png": "/Portfolio/static/media/De'Louer.65d1f94106ff0baea283.png",
+    "static/media/Coffe-apps-1.jpg": "/Portfolio/static/media/Coffe-apps-1.47c8a70be2af31deb6ed.jpg",
+    "static/media/Toko-sebelah.png": "/Portfolio/static/media/Toko-sebelah.6272d8e1c56ebf1be530.png",
+    "static/media/Gaming-platform.png": "/Portfolio/static/media/Gaming-platform.6100b983744a40be610b.png",
+    "static/media/banner-laptop.png": "/Portfolio/static/media/banner-laptop.2594be4ba951a8195096.png",
+    "static/media/icon-web.png": "/Portfolio/static/media/icon-web.b2c514376e752719d541.png",
+    "static/media/react.svg": "/Portfolio/static/media/react.cd4716dd870ded4800b5f9a6382944b0.svg",
+    "static/media/github.svg": "/Portfolio/static/media/github.36137bc1e31267004a59ce685b58b1c4.svg",
+    "static/media/node-js.svg": "/Portfolio/static/media/node-js.5e939dd888e37b1c5feb11e39849389c.svg",
+    "static/media/laravel.svg": "/Portfolio/static/media/laravel.c1f4811c66b9b629b953c32ac9ece484.svg",
+    "static/media/bootstrap.svg": "/Portfolio/static/media/bootstrap.97f1117c2d909fd47f93f8616d5845ea.svg",
+    "static/media/flutter.svg": "/Portfolio/static/media/flutter.d76186658cc8bfe5c734843ead5d3355.svg",
+    "static/media/js.svg": "/Portfolio/static/media/js.87d78a5686571a27925ebe8752676201.svg",
+    "static/media/php.svg": "/Portfolio/static/media/php.260d3e6bd548101d09a5c8ec964de520.svg",
+    "static/media/css.svg": "/Portfolio/static/media/css.3b09ac3fe497b5c8138d4e8101bc62ee.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/html.svg": "/Portfolio/static/media/html.655fc5b2390f611ade1bcfe511a0f825.svg",
+    "static/media/vue.svg": "/Portfolio/static/media/vue.1859235badb3f62dee58557f0a851142.svg",
+    "main.15e1a120.css.map": "/Portfolio/static/css/main.15e1a120.css.map",
+    "main.b5a377e8.js.map": "/Portfolio/static/js/main.b5a377e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e1a120.css",
+    "static/js/main.b5a377e8.js"
+  ]
+}
